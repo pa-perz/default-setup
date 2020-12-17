@@ -8,7 +8,7 @@ It contains all the tools I need to work and my preferred configurations.
 ## WARNINGS
 
 1. You should never run scripts from the internet without making sure it doesn't contain malware. Please always make
-   sure the scrips you are running is safe to use by checking its source code.
+   sure the scripts you are running are safe to use by checking its source code.
 
 2. This script only works on openSUSE Tumbleweed. It might or might not work on openSUSE Leap.
 
